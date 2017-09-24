@@ -151,7 +151,12 @@ Using a threshold of 0.20 we get the following images from the model ran on the 
 
 ![alt text][image4]
 
-[Here][video1] are the result found when the detection pipeline is also applied to the project_video.mp4
+Below is a link to see the results of the detection pipeline when applied to project_video.mp4
+
+
+
+[![Project Video](http://img.youtube.com/vi/xCsoZJZee5k/0.jpg)](https://youtu.be/xCsoZJZee5k)
+
 
 Discussion
 ----------
